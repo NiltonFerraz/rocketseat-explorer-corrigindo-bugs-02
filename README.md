@@ -1,7 +1,5 @@
-# Iniciante - Corrigindo bugs (02) **👀**
+# 💻 O que aprendi
 
-# 💻 Sobre o desafio
+ **👀**  Nesse desafio, aprendi a alterar o layout através do Css, adicionar hover no botão, acertar a disposição dos itens na página e muito mais.
 
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.
-E, novamente, a surpresa ~~(não tão surpresa assim)~~ vem aí...  **👀**  
-O código sofreu algumas alterações nos principais pontos abordados nessa fase.
+ ![image](https://github.com/user-attachments/assets/2a3988ef-2085-4969-a1b8-687bbb1e5a47)
